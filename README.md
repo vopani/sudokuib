@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src='images/logo_500_x_500.png'>
+<img src='images/logo_150_x_150.png'>
 <br>
 
 An evolving wikipedia of sudoku variations
