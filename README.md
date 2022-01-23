@@ -43,7 +43,7 @@ The data can be viewed directly on the browser.
 [https://github.com/vopani/sudokuib/blob/main/variations/diagonal.json](https://github.com/vopani/sudokuib/blob/main/variations/diagonal.json)   
 ...
 
-#### Raw
+#### API
 The raw data can be accessed using GitHub's raw URL.
 
 [https://raw.githubusercontent.com/vopani/sudokuib/main/variations/arrow.json](https://raw.githubusercontent.com/vopani/sudokuib/main/variations/arrow.json)   
