@@ -8,7 +8,6 @@ An evolving encyclopedia of sudoku
 ---
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?logo=apache)](https://github.com/vopani/sudokuib/blob/master/LICENSE)
-[![GitHub](https://img.shields.io/github/stars/vopani/sudokuib?color=yellowgreen&logo=github)](https://github.com/vopani/sudokuib)
 [![Variations](https://shields.io/endpoint?url=https://raw.githubusercontent.com/vopani/sudokuib/main/badge.json&logo=square)](https://github.com/vopani/sudokuib/tree/main/variations)
 [![Twitter](https://img.shields.io/twitter/follow/vopani)](https://twitter.com/vopani)
 
