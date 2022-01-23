@@ -3,7 +3,7 @@
 <img src='images/logo_200_x_200.png'>
 <br>
 
-An evolving encyclopedia of sudoku variations
+An evolving encyclopedia of sudoku
 
 ---
 
