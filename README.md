@@ -16,9 +16,9 @@ An evolving encyclopedia of sudoku
 </div>
 
 ## Mission 🚀
-To build a collaborative encyclopedia of information on sudoku and its variations. Almost like a meta Instructions Booklet (IB).
+To build a collaborative encyclopedia of information on sudoku and its variations. Like a meta Instructions Booklet (IB).
 
-There are thousands of sudoku variations that have been created and many more being invented each year by sudoku authors around the globe. They are repeatedly used in sudoku championships at a regional, national and international level.
+There are thousands of sudoku variations that have been created and many more being invented each year by sudoku authors around the globe that are used in sudoku championships at a regional, national and international level.
 
 ## Content 📂
 This repository hosts the following information on sudoku variations:
