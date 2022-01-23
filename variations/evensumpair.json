@@ -1,0 +1,9 @@
+{
+  "name": "evensumpair",
+  "title": "Even Sum Pair Sudoku",
+  "rules": {
+    "6x6": "Place a digit from 1 to 6 into each empty cell in the grid so that each digit appears exactly once in each row, column and 2x3 outlined box. Adjacent cells marked by a circle contain digits whose sum is even. All possible circles are not marked.",
+    "9x9": "Place a digit from 1 to 9 into each empty cell in the grid so that each digit appears exactly once in each row, column and 3x3 outlined box. Adjacent cells marked by a circle contain digits whose sum is even. All possible circles are not marked."
+  },
+  "tags": ["math", "neighbour"]
+}
