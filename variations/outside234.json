@@ -1,0 +1,8 @@
+{
+  "name": "outside234",
+  "title": "Outside-234 Sudoku",
+  "rules": {
+    "9x9": "Place a digit from 1 to 9 into each empty cell in the grid so that each digit appears exactly once in each row, column and 3x3 outlined box. Each digit outside the grid appears in one of 2nd, 3rd or 4th cells in the corresponding direction."
+  },
+  "tags": ["outside", "placement"]
+}
