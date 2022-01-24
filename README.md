@@ -62,18 +62,18 @@ cd sudokuib
 ## Contribution 🛠️
 Everyone is welcomed and encouraged to contribute in any way.
 
-#### New Variation Request
+#### New Variation Request 💡
 You can request for a new sudoku variation to be added by opening an [Issue](https://github.com/vopani/sudokuib/issues) using the template provided.
 
-#### Feedback
+#### Feedback 💡
 You can create an [Issue](https://github.com/vopani/sudokuib/issues) for any improvements, ideas, suggestions, errors or feedback about the project.
 
 You can also tag [@vopani](https://twitter.com/vopani) on Twitter for any other queries or feedback.
 
-#### Pull Requests
+#### Pull Requests 💡
 You can make data updates yourself too by sending a [Pull Request](https://github.com/vopani/sudokuib/pulls).
 
-#### *Inventor Update (coming soon)*
+#### *Inventor Update (coming soon) 💡*
 Information about the inventors of sudoku variations will be added soon.   
 So whether your variation is listed or not, you can create an [Issue](https://github.com/vopani/sudokuib/issues) about any variation that you have invented and credit will be added.
 
