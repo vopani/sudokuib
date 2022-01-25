@@ -25,8 +25,8 @@ This repository hosts the following information on sudoku variations:
 
 * **Title:** Name of the sudoku in a clean and case-sensitive format.
 * **Rules:** Instructions that explain the rules of the sudoku for different grid sizes.
+* **Inventor:** Name of the person who invented the sudoku variation along with year of invention.
 * **Tags:** Commonly used attributes for grouping, categorizing and describing the type of sudoku.
-* ***Inventor:** coming soon*
 
 ## Usage 📖
 The data is available in `json` format and can be consumed freely in many ways.   
@@ -62,20 +62,19 @@ cd sudokuib
 ## Contribution 🛠️
 Everyone is welcomed and encouraged to contribute in any way.
 
-#### New Variation Request 💡
-You can request for a new sudoku variation to be added by opening an [Issue](https://github.com/vopani/sudokuib/issues) using the template provided.
+#### 💡 New Variation Request
+Please request for a new sudoku variation to be added by opening an [Issue](https://github.com/vopani/sudokuib/issues) using the template provided.
 
-#### Feedback 💡
-You can create an [Issue](https://github.com/vopani/sudokuib/issues) for any improvements, ideas, suggestions, errors or feedback about the project.
+#### 💡 Inventor Update
+If you know the inventor of any sudoku variation, please open an [Issue](https://github.com/vopani/sudokuib/issues) using the template provided.
 
-You can also tag [@vopani](https://twitter.com/vopani) on Twitter for any other queries or feedback.
+#### 💡 Pull Request
+You can make data updates yourself too by forking the repo and sending a [Pull Request](https://github.com/vopani/sudokuib/pulls).
 
-#### Pull Requests 💡
-You can make data updates yourself too by sending a [Pull Request](https://github.com/vopani/sudokuib/pulls).
+#### 💡 Feedback
+Please create an [Issue](https://github.com/vopani/sudokuib/issues) for any improvements, ideas, suggestions, errors or feedback about the project.
 
-#### *Inventor Update (coming soon) 💡*
-Information about the inventors of sudoku variations will be added soon.   
-So whether your variation is listed or not, you can create an [Issue](https://github.com/vopani/sudokuib/issues) about any variation that you have invented and credit will be added.
+Feel free to tag [@vopani](https://twitter.com/vopani) on Twitter for any other queries or feedback.
 
 ## License 📋
 This project is licensed under the [Apache License 2.0](https://github.com/vopani/sudokuib/blob/main/LICENSE).
