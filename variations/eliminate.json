@@ -5,5 +5,5 @@
     "6x6": "Place a digit from 1 to 6 into each empty cell in the grid so that each digit appears exactly once in each row, column and 2x3 outlined box. Each digit in a cell with an arrow does not appear in any of the cells pointed by its arrow.",
     "9x9": "Place a digit from 1 to 9 into each empty cell in the grid so that each digit appears exactly once in each row, column and 3x3 outlined box. Each digit in a cell with an arrow does not appear in any of the cells pointed by its arrow."
   },
-  "tags": ["diagonal"]
+  "tags": ["diagonal", "direction"]
 }
