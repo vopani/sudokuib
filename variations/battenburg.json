@@ -1,6 +1,6 @@
 {
-  "name": "battenburg",
-  "title": "Battenburg Sudoku",
+  "id": "battenburg",
+  "name": "Battenburg Sudoku",
   "rules": {
     "6x6": "Place a digit from 1 to 6 into each empty cell in the grid so that each digit appears exactly once in each row, column and 2x3 outlined box. Each 2x2 area with two odd digits and two even digits forming a checkerboard pattern is marked with a battenburg symbol (or circle). All such 2x2 areas are marked.",
     "9x9": "Place a digit from 1 to 9 into each empty cell in the grid so that each digit appears exactly once in each row, column and 3x3 outlined box. Each 2x2 area with two odd digits and two even digits forming a checkerboard pattern is marked with a battenburg symbol (or circle). All such 2x2 areas are marked."

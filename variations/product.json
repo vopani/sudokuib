@@ -1,6 +1,6 @@
 {
-  "name": "product",
-  "title": "Product Sudoku",
+  "id": "product",
+  "name": "Product Sudoku",
   "rules": {
     "6x6": "Place a digit from 1 to 6 into each empty cell in the grid so that each digit appears exactly once in each row, column and 2x3 outlined box. Each digit between adjacent cells is the product of digits in those two cells.",
     "9x9": "Place a digit from 1 to 9 into each empty cell in the grid so that each digit appears exactly once in each row, column and 3x3 outlined box. Each digit between adjacent cells is the product of digits in those two cells."

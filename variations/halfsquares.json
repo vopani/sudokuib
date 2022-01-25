@@ -1,6 +1,6 @@
 {
-  "name": "halfsquares",
-  "title": "Half Squares Sudoku",
+  "id": "halfsquares",
+  "name": "Half Squares Sudoku",
   "rules": {
     "4x4": "Place a digit from 1 to 4 into each empty cell in the grid so that each digit appears exactly once in each row, column and outlined region. Some cells are divided in half and there must be a digit in any one half.",
     "5x5": "Place a digit from 1 to 5 into each empty cell in the grid so that each digit appears exactly once in each row, column and outlined region. Some cells are divided in half and there must be a digit in any one half.",
