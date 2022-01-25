@@ -6,7 +6,7 @@
     "9x9": "Place a digit from 1 to 9 into each empty cell in the grid so that each digit appears exactly once in each row, column and 3x3 outlined box. Each ship outside the grid must appear in the grid such that ships do not touch each other, even diagonally. Rotation and reflection are allowed but the orientation of digits in the ships remain the same. Ship segments without a digit can contain any digit. Each number outside the grid is the number of ship segments in the corresponding row or column. Cells with given digits or a water symbol are not part of any ship."
   },
   "inventor": {
-    "name": "Thomas Snyder",
+    "name": "thomassnyder",
     "year": 2006
   },
   "tags": ["placement", "puzzle"]
