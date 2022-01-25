@@ -9,5 +9,5 @@
     "8x8": "Place a digit from 1 to 8 into each empty cell in the grid so that each digit appears exactly once in each row, column and outlined region. Some outlined regions wrap around the grid.",
     "9x9": "Place a digit from 1 to 9 into each empty cell in the grid so that each digit appears exactly once in each row, column and outlined region. Some outlined regions wrap around the grid."
   },
-  "tags": ["irregular", "region"]
+  "tags": ["irregular"]
 }
