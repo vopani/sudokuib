@@ -1,0 +1,13 @@
+{
+  "id": "scattered",
+  "name": "Scattered Sudoku",
+  "rules": {
+    "4x4": "Place a digit from 1 to 4 into each empty cell in the grid so that each digit appears exactly once in each row, column, outlined region and the set of shaded cells.",
+    "5x5": "Place a digit from 1 to 5 into each empty cell in the grid so that each digit appears exactly once in each row, column, outlined region and the set of shaded cells.",
+    "6x6": "Place a digit from 1 to 6 into each empty cell in the grid so that each digit appears exactly once in each row, column, outlined region and the set of shaded cells.",
+    "7x7": "Place a digit from 1 to 7 into each empty cell in the grid so that each digit appears exactly once in each row, column, outlined region and the set of shaded cells.",
+    "8x8": "Place a digit from 1 to 8 into each empty cell in the grid so that each digit appears exactly once in each row, column, outlined region and the set of shaded cells.",
+    "9x9": "Place a digit from 1 to 9 into each empty cell in the grid so that each digit appears exactly once in each row, column, outlined region and the set of shaded cells."
+  },
+  "tags": ["irregular"]
+}
