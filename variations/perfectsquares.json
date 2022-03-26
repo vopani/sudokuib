@@ -5,5 +5,9 @@
     "6x6": "Place a digit from 1 to 6 into each empty cell in the grid so that each digit appears exactly once in each row, column and 2x3 outlined box. Adjacent cells, reading left-to-right or top-to-bottom, that represent a two-digit perfect square are marked in the grid. All such perfect squares are marked. The list of perfect squares is 16, 25, 36, 49, 64 and 81.",
     "9x9": "Place a digit from 1 to 9 into each empty cell in the grid so that each digit appears exactly once in each row, column and 3x3 outlined box. Adjacent cells, reading left-to-right or top-to-bottom, that represent a two-digit perfect square are marked in the grid. All such perfect squares are marked. The list of perfect squares is 16, 25, 36, 49, 64 and 81."
   },
+  "inventor": {
+    "id": "rohanrao",
+    "year": 2010
+  },
   "tags": ["converse", "neighbour"]
 }
