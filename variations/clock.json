@@ -1,0 +1,9 @@
+{
+  "id": "clock",
+  "name": "Clock Sudoku",
+  "rules": {
+    "6x6": "Place a digit from 1 to 6 into each empty cell in the grid so that each digit appears exactly once in each row, column and 2x3 outlined box. Each 1x4 marked area represents a digital clock that displays a valid time from left-to-right in 24-hour (HH:MM) format.",
+    "9x9": "Place a digit from 1 to 9 into each empty cell in the grid so that each digit appears exactly once in each row, column and 3x3 outlined box. Each 1x4 marked area represents a digital clock that displays a valid time from left-to-right in 24-hour (HH:MM) format."
+  },
+  "tags": ["hybrid"]
+}
