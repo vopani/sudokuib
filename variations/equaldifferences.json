@@ -1,0 +1,9 @@
+{
+  "id": "equaldifferences",
+  "name": "Equal Differences Sudoku",
+  "rules": {
+    "6x6": "Place a digit from 1 to 6 into each empty cell in the grid so that each digit appears exactly once in each row, column and 2x3 outlined box. Each cross at the intersection of four cells indicates that the two pairs of diagonally opposite digits subtract to the same absolute difference. All possible crosses are marked.",
+    "9x9": "Place a digit from 1 to 9 into each empty cell in the grid so that each digit appears exactly once in each row, column and 3x3 outlined box. Each cross at the intersection of four cells indicates that the two pairs of diagonally opposite digits subtract to the same absolute difference. All possible crosses are marked."
+  },
+  "tags": ["converse", "math", "neighbour"]
+}
