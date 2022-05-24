@@ -1,0 +1,8 @@
+{
+  "id": "parquet",
+  "name": "Parquet Sudoku",
+  "rules": {
+    "9x9": "Place a digit from 1 to 9 into each empty cell in the grid so that each digit appears exactly once in each row, column and outlined region. Some cells belong to multiple rows and/or columns."
+  },
+  "tags": ["irregular"]
+}
